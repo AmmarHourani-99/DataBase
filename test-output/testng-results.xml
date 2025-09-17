@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-17T12:35:31 EET" name="Default suite" finished-at="2025-09-17T12:35:32 EET" duration-ms="807">
+    <groups>
+    </groups>
+    <test started-at="2025-09-17T12:35:31 EET" name="Default test" finished-at="2025-09-17T12:35:32 EET" duration-ms="807">
+      <class name="Automation.DataTestCases">
+        <test-method is-config="true" signature="MySetUp()[pri:0, instance:Automation.DataTestCases@73a1e9a9]" started-at="2025-09-17T12:35:31 EET" name="MySetUp" finished-at="2025-09-17T12:35:32 EET" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetUp -->
+        <test-method signature="CreateData()[pri:0, instance:Automation.DataTestCases@73a1e9a9]" started-at="2025-09-17T12:35:32 EET" name="CreateData" finished-at="2025-09-17T12:35:32 EET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateData -->
+        <test-method signature="DeleteData()[pri:0, instance:Automation.DataTestCases@73a1e9a9]" started-at="2025-09-17T12:35:32 EET" name="DeleteData" finished-at="2025-09-17T12:35:32 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteData -->
+        <test-method signature="ReadData()[pri:0, instance:Automation.DataTestCases@73a1e9a9]" started-at="2025-09-17T12:35:32 EET" name="ReadData" finished-at="2025-09-17T12:35:32 EET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadData -->
+        <test-method signature="UpdateData()[pri:0, instance:Automation.DataTestCases@73a1e9a9]" started-at="2025-09-17T12:35:32 EET" name="UpdateData" finished-at="2025-09-17T12:35:32 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateData -->
+      </class> <!-- Automation.DataTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
